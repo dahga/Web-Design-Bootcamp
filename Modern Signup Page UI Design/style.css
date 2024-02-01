@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+*{
+
+    box-sizing: border-box;
+
+}
+ 
+html {
+    height: 100%;
+}
+
+body{
+
+    height: 100%;
+    display: grid;
+    place-items: center;
+    margin: 0;
+    padding: 0 32px;
+    background: white;
+    font-family: "Shadows Into Light";
+    animation: rotate 6s infinite alternate linear;
+}
+
+.circle{
+    position: fixed;
+    top: -50vmin;
+    left: -50vmin;
+    width: 100 vmin;
+    height: 100 vmin;
+    border-radius: 47% 53% 61% 39% / 45% 51% 49% 55%;
+    background: pink;
+}
