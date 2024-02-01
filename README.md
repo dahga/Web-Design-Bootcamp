@@ -2,7 +2,7 @@
 Beginner Friendly Web Design Projects
 
 
-- Simple begineer friendly web design projects anyone can try. Please feel free to attempt these projects yourself and design them however you want.
+- Simple beginner friendly web design projects anyone can try. Please feel free to attempt these projects yourself and design them however you want.
 
 Projects:
 
